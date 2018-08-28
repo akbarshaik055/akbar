@@ -1,5 +1,5 @@
 num=int(raw_input())
-if ((num % 2)==0):
-	print (str(num)+"is positive")
+if ((X % 2)==0):
+	print (str(X)+"is positive")
 else:
-	print (str(num)+"is negitive")
+	print (str(X)+"is negitive")
